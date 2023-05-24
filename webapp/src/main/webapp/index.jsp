@@ -1,3 +1,2 @@
 <h1> Hello, Welcome to DevOps Project !!   </h1>
-<h2> Deploying on docker container using ansible </h2>
-<h3> changes done in ansible </h3>
+<h2> Deploying on docker container using ansible playbooks </h2>
